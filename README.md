@@ -1,0 +1,3 @@
+MAINFLOW SERVICES AND TECHNOLOGIES INTERNSHIP TASKS
+
+1. TASK 01: Understanding datatypes in python
