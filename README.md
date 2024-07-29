@@ -7,3 +7,5 @@ MAINFLOW SERVICES AND TECHNOLOGIES INTERNSHIP TASKS
 3. TASK 03: Data Visualization using Matplotlib
 
 4. TASK 04: Finding Patterns and Trends using Visualization
+
+5. TASK 05: Finding Paterns based on questions and Visualizing the obtained insights
